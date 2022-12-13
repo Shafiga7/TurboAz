@@ -1,7 +1,7 @@
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.nio.charset.StandardCharsets;
-
+//salam
 public class FileInputandOutput {
     public static void main(String[] args) {
         try {
